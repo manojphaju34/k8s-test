@@ -11,4 +11,4 @@ spec:
     - protocol: TCP
       port: 80         # Cluster IP port
       targetPort: 3000   # Container port
-      nodePort: 31110  # NodePort for external access (30000-32767)
+      nodePort: 32220  # NodePort for external access (30000-32767)
